@@ -18,4 +18,4 @@ I focus on building high-performance landing pages and scalable web applications
 - [graphwizards.in](https://graphwizards.in)
 
 ---
-📫 **How to reach me:** [Your Email/LinkedIn Link]
+📫 **How to reach me:** immohitdhiman@gmail.com || be.net/immohitdhiman
