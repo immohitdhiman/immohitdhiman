@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Mohit! 👋
 
-<!--
-**immohitdhiman/immohitdhiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Full-Stack Developer** and **Designer** specializing in modern web ecosystems. 
+I focus on building high-performance landing pages and scalable web applications.
 
-Here are some ideas to get you started:
+### 🚀 What I'm working on
+- Currently developing **[thapar.cc](https://thapar.cc)** and **[jobs.thapar.edu](https://jobs.thapar.edu)**.
+- Running **GraphWizards**, a creative agency for professional web solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Frontend:** Next.js, React.js, Tailwind CSS
+- **Backend:** Node.js, Strapi CMS
+- **Design:** Branding, UI/UX, Typography (Barlow & Playfair Display)
+
+### 📈 Past Projects
+- [openday.thapar.edu](https://openday.thapar.edu)
+- [glsummit.thapar.edu](https://glsummit.thapar.edu)
+- [graphwizards.in](https://graphwizards.in)
+
+---
+📫 **How to reach me:** [Your Email/LinkedIn Link]
