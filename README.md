@@ -7,7 +7,7 @@ I focus on building high-performance landing pages and scalable web applications
 - **Frontend:** Next.js, React.js, Tailwind CSS
 - **Backend:** Node.js, Strapi CMS
 - **Mobile App:** Expo, React Native, Nativewind
-- **Design:** Branding, UI/UX, Typography (Barlow & Playfair Display)
+- **Design:** Branding, UI/UX, Graphics
 
  
 ---
