@@ -12,10 +12,6 @@ I focus on building high-performance landing pages and scalable web applications
 - **Backend:** Node.js, Strapi CMS
 - **Design:** Branding, UI/UX, Typography (Barlow & Playfair Display)
 
-### 📈 Past Projects
-- [openday.thapar.edu](https://openday.thapar.edu)
-- [glsummit.thapar.edu](https://glsummit.thapar.edu)
-- [graphwizards.in](https://graphwizards.in)
-
+ 
 ---
 📫 **How to reach me:** immohitdhiman@gmail.com || be.net/immohitdhiman
